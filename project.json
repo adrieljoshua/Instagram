@@ -1,0 +1,97 @@
+[
+  {
+    "module": "User Interface",
+    "submodules": [
+      {
+        "title": "Profile Management",
+        "description": "Allows users to create and customize their profiles, including profile pictures, bios, and personal information. Users can manage privacy settings and control who sees their information.",
+        "selected": true
+      },
+      {
+        "title": "News Feed",
+        "description": "Displays a dynamic stream of updates from friends, groups, and pages that users follow. The feed is algorithmically curated to show relevant content based on user interactions and preferences.",
+        "selected": true
+      },
+      {
+        "title": "Messaging Interface",
+        "description": "Provides a seamless chat experience with real-time messaging, multimedia sharing, and group chats. Users can send text, images, videos, and voice messages, as well as create chat groups.",
+        "selected": true
+      },
+      {
+        "title": "Event Planning",
+        "description": "Enables users to create, manage, and RSVP to events. Users can sync events with their calendars, invite friends, and receive reminders for upcoming events.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Backend Services",
+    "submodules": [
+      {
+        "title": "User Authentication",
+        "description": "Handles user registration, login, and secure authentication processes. Implements identity verification through Self Protocol to ensure that users are who they claim to be.",
+        "selected": true
+      },
+      {
+        "title": "Data Management",
+        "description": "Manages user data, including posts, messages, and interactions. Ensures data integrity and security while providing efficient access to user-generated content.",
+        "selected": true
+      },
+      {
+        "title": "AI Recommendation Engine",
+        "description": "Utilizes machine learning algorithms to analyze user behavior and interests, providing personalized recommendations for friends, groups, and content. Continuously learns from user interactions to improve suggestions.",
+        "selected": true
+      },
+      {
+        "title": "On-Chain Monetization",
+        "description": "Facilitates a transparent ad revenue sharing system for creators and advertisers using smart contracts. Ensures that all transactions are secure and verifiable on the blockchain.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Community Features",
+    "submodules": [
+      {
+        "title": "Groups and Pages",
+        "description": "Allows users to create and join interest-based groups and follow public pages. Facilitates discussions, content sharing, and community engagement around shared interests.",
+        "selected": true
+      },
+      {
+        "title": "Content Discovery",
+        "description": "Enables users to discover new content based on their interests and interactions. Features trending topics, popular posts, and recommendations tailored to individual preferences.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Security and Privacy",
+    "submodules": [
+      {
+        "title": "Privacy Controls",
+        "description": "Provides users with comprehensive privacy settings to manage who can see their posts, friend requests, and personal information. Users can customize their visibility and control their online presence.",
+        "selected": true
+      },
+      {
+        "title": "Secure Messaging",
+        "description": "Ensures that all messages are encrypted and secure, protecting user conversations from unauthorized access. Implements end-to-end encryption for private chats.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Analytics and Insights",
+    "submodules": [
+      {
+        "title": "User Engagement Analytics",
+        "description": "Tracks user interactions, engagement metrics, and content performance. Provides insights to businesses and creators to help them understand their audience and optimize their strategies.",
+        "selected": true
+      },
+      {
+        "title": "Ad Performance Tracking",
+        "description": "Monitors the effectiveness of advertisements and campaigns, providing detailed reports on reach, engagement, and conversion rates. Helps advertisers refine their targeting and improve ROI.",
+        "selected": true
+      }
+    ]
+  }
+]
